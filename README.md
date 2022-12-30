@@ -1,14 +1,12 @@
 <img src="https://github.com/jahirfiquitiva/Frames/raw/master/art/app_logo.png" width="192" align="right" hspace="20" />
 
-Frames
+Awalls You
 ======
 
 ![API](https://img.shields.io/badge/API-21%2B-34bf49.svg)
 [![GitHub Release](https://img.shields.io/github/v/release/jahirfiquitiva/Frames?label=Frames&sort=semver)](https://github.com/jahirfiquitiva/Frames/releases/latest)
-[![Build Status](https://github.com/jahirfiquitiva/Frames/actions/workflows/build.yml/badge.svg?branch=sample)](https://github.com/jahirfiquitiva/Frames/actions/workflows/build.yml)
-[![Crowdin](https://badges.crowdin.net/Frames/localized.svg)](https://crowdin.com/project/Frames/invite)
 
-Free, feature-rich, easily customizable Android dashboard for wallpapers apps
+Awalls You has wallpapers designed with simple and minimalist styles 
 
 <a target="_blank" href="http://jahir.dev/gh-releases/frames">
 <img src="https://jahir.dev/share/download_sample.svg?maxAge=432000" width="200"/>
@@ -18,9 +16,8 @@ Free, feature-rich, easily customizable Android dashboard for wallpapers apps
 <img src="https://jahir.dev/share/support_my_work.svg?maxAge=432000" width="200"/>
 </a>
 
-## Show some  :blue_heart:
+## Show some  :green_heart:
 [![GitHub stars](https://img.shields.io/github/stars/jahirfiquitiva/Frames.svg?style=social&label=Star)](https://github.com/jahirfiquitiva/Frames)
-[![GitHub forks](https://img.shields.io/github/forks/jahirfiquitiva/Frames.svg?style=social&label=Fork)](https://github.com/jahirfiquitiva/Frames/fork)
 [![GitHub watchers](https://img.shields.io/github/watchers/jahirfiquitiva/Frames.svg?style=social&label=Watch)](https://github.com/jahirfiquitiva/Frames)
 
 [![Follow on GitHub](https://img.shields.io/github/followers/jahirfiquitiva.svg?style=social&label=Follow)](https://github.com/jahirfiquitiva)
@@ -28,7 +25,7 @@ Free, feature-rich, easily customizable Android dashboard for wallpapers apps
 
 ---
 
-
+# Previews
 
 ### Customizable styles
 <p align="center">
@@ -105,14 +102,6 @@ dependencies {
 ```
 where `{latest version}` corresponds to published version in   [![GitHub Release](https://img.shields.io/github/v/release/jahirfiquitiva/Frames?label=Frames&sort=semver)](https://github.com/jahirfiquitiva/Frames/releases/latest)
 
-## How to implement
-:page_with_curl: Everything you need to know can be found in the **[Wiki Docs](https://github.com/jahirfiquitiva/Frames/wiki/)**
-
-## Still need help :question:
-Just join our Discord Server and make a post. We'll help you as soon as possible. [![Join chat on Discord](https://badgen.net/badge/discord/join%20chat/7289DA?icon=discord)](https://discord.gg/78h7xgj)
-
-### Check out [some cool apps](https://jahir.dev/blog/post-of-fame) built using this dashboard
-
 ---
 
 # Developed by
@@ -129,22 +118,6 @@ If you found this app/library helpful and want to thank me, you can:
 </a>
 
 **Thanks in advance!** :pray:
-
-## Special thanks 🙌
-
-- [Eduardo Pratti](https://pratti.design/) 🎨
-- [Sherry Sabatine](http://www.ssabatinephotography.com/) 💵
-- [Allan Wang](https://www.allanwang.ca/) 💻
-- [James Fenn](https://theandroidmaster.github.io/) 🔌
-- [Maximilian Keppeler](https://twitter.com/maxKeppeler) 🔌
-- [Sasi Kanth](https://twitter.com/its_sasikanth) 🔌
-- [Alexandre Piveteau](https://github.com/alexandrepiveteau) 💻
-- [Lukas Koller](https://github.com/kollerlukas) 🔌
-- [Patryk Goworowski](https://twitter.com/pgoworowski) 🎨
-- [Lumiq Creative](https://lumiqcreative.com/) 🎨
-- [Jackson Hayes](https://jacksonhayes.xyz/) 📖
-- [Kevin Aguilar](https://twitter.com/kevttob) 🎨
-- [Anthony Nguyen](https://twitter.com/link6155) 🎨
 
 ---
 
@@ -165,11 +138,3 @@ This app is shared under the CreativeCommons Attribution-ShareAlike license.
 	WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 	See the License for the specific language governing permissions and
 	limitations under the License.
-
-## Library source
-
-As you may know, the [library source](https://github.com/jahirfiquitiva/Frames/tree/master) is open-source. This means that you can fork it and do your own modifications, but it has some conditions:
-
-When using the [library source](https://github.com/jahirfiquitiva/Frames/tree/master), anything from it: errors, crashes, issues, etc. including successful builds, must be done completely by yourself and under your own risk and responsibility. I **will not** provide any help/support when using the [library source](https://github.com/jahirfiquitiva/Frames/tree/master).
-
-Finally, be sure your projects comply with the [license previously mentioned](https://github.com/jahirfiquitiva/Frames#license). Otherwise I will be taking the required legal actions. I hope you understand.
