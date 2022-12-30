@@ -28,7 +28,7 @@ Free, feature-rich, easily customizable Android dashboard for wallpapers apps
 
 ---
 
-# Previews
+
 
 ### Customizable styles
 <p align="center">
