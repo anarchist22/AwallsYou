@@ -6,7 +6,7 @@ Awalls You
 ![API](https://img.shields.io/badge/API-21%2B-34bf49.svg)
 [![GitHub Release](https://img.shields.io/github/v/release/jahirfiquitiva/Frames?label=Frames&sort=semver)](https://github.com/jahirfiquitiva/Frames/releases/latest)
 
-Awalls You has wallpapers designed with simple and minimalist styles 
+Awalls You has wallpapers designed with simple and beautiful minimalist styles 
 
 <a target="_blank" href="http://jahir.dev/gh-releases/frames">
 <img src="https://jahir.dev/share/download_sample.svg?maxAge=432000" width="200"/>
