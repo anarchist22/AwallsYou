@@ -1,1 +1,29 @@
-
+[
+	{
+		"name": "Sunset Yellow",
+		"author": "An",
+		"url": "https://raw.githubusercontent.com/anarchist22/AwallsYou/main/app/src/main/res/wallpapers/sunset_yellow_wall.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/anarchist22/AwallsYou/main/app/src/main/res/wallpapers/thumbnails/sunset_yellow_thumbnail.jpg",
+		"collections": "Paper You",
+		"downloadable": true,
+		"copyright": "An Art"
+	},
+	{
+		"name": "Sunset Green",
+		"author": "An",
+		"url": "https://raw.githubusercontent.com/anarchist22/AwallsYou/main/app/src/main/res/wallpapers/sunset_green_wall.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/anarchist22/AwallsYou/main/app/src/main/res/wallpapers/thumbnails/sunset_green_thumbnail.jpg",
+		"collections": "Paper You",
+		"downloadable": true,
+		"copyright": "An Art"
+	},
+	{
+		"name": "Sunset",
+		"author": "An",
+		"url": "https://raw.githubusercontent.com/anarchist22/AwallsYou/main/app/src/main/res/wallpapers/sunset_wall.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/anarchist22/AwallsYou/main/app/src/main/res/wallpapers/thumbnails/sunset_thumbnail.jpg",
+		"collections": "Paper You",
+		"downloadable": true,
+		"copyright": "An Art"
+	}
+]
