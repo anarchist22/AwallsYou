@@ -1,7 +1,7 @@
-<img src="https://github.com/jahirfiquitiva/Frames/raw/master/art/app_logo.png" width="192" align="right" hspace="20" />
+<img src="https://raw.githubusercontent.com/anarchist22/AwallsYou/main/app/src/main/res/drawable/awalls_you_logo.png" width="170" align="bottom" hspace="0" />
 
 Awalls You
-======
+===
 
 ![API](https://img.shields.io/badge/API-21%2B-34bf49.svg)
 [![GitHub Release](https://img.shields.io/github/v/release/jahirfiquitiva/Frames?label=Frames&sort=semver)](https://github.com/jahirfiquitiva/Frames/releases/latest)
@@ -22,33 +22,6 @@ Awalls You has wallpapers designed with simple and beautiful minimalist styles
 
 [![Follow on GitHub](https://img.shields.io/github/followers/jahirfiquitiva.svg?style=social&label=Follow)](https://github.com/jahirfiquitiva)
 [![Follow on Twitter](https://img.shields.io/twitter/follow/jahirfiquitiva.svg?style=social)](https://twitter.com/jahirfiquitiva)
-
----
-
-# Previews
-
-### Customizable styles
-<p align="center">
-<img src="https://github.com/jahirfiquitiva/Frames/raw/master/art/1.png" height="350"/>
-<img src="https://github.com/jahirfiquitiva/Frames/raw/master/art/2.png" height="350"/>
-<img src="https://github.com/jahirfiquitiva/Frames/raw/master/art/3.png" height="350"/>
-<img src="https://github.com/jahirfiquitiva/Frames/raw/master/art/4.png" height="350"/>
-<img src="https://github.com/jahirfiquitiva/Frames/raw/master/art/5.png" height="350"/>
-</p>
-
-### Full-screen Viewer / Multiple themes
-<p align="center">
-<img src="https://github.com/jahirfiquitiva/Frames/raw/master/art/6.png" height="350"/>
-<img src="https://github.com/jahirfiquitiva/Frames/raw/master/art/7.png" height="350"/>
-<img src="https://github.com/jahirfiquitiva/Frames/raw/master/art/8.png" height="350"/>
-<img src="https://github.com/jahirfiquitiva/Frames/raw/master/art/9.png" height="350"/>
-</p>
-
-### Credits / Settings
-<p align="center">
-<img src="https://github.com/jahirfiquitiva/Frames/raw/master/art/10.png" height="350"/>
-<img src="https://github.com/jahirfiquitiva/Frames/raw/master/art/11.png" height="350"/>
-</p>
 
 ---
 
@@ -80,44 +53,17 @@ Awalls You has wallpapers designed with simple and beautiful minimalist styles
 
 ---
 
-# Including in your project
-Frames is available via Maven, so getting it as simple as adding it as a dependency, like this:
-
-1. Add `MavenCentral` and `Jitpack` to your root `build.gradle` file
-```gradle
-allprojects {
-    repositories {
-        mavenCentral()
-        maven { url 'https://jitpack.io' }
-    }
-}
-```
-2. Add the dependency in your project `build.gradle` file
-```gradle
-dependencies {
-    implementation('dev.jahir:Frames:{latest version}@aar') {
-        transitive = true
-    }
-}
-```
 where `{latest version}` corresponds to published version in   [![GitHub Release](https://img.shields.io/github/v/release/jahirfiquitiva/Frames?label=Frames&sort=semver)](https://github.com/jahirfiquitiva/Frames/releases/latest)
 
 ---
 
-# Developed by
+### Thanks to
 
-### [Jahir Fiquitiva](https://jahir.dev/)
+ [Jahir Fiquitiva](https://jahir.dev/)
 
 [![Follow on GitHub](https://img.shields.io/github/followers/jahirfiquitiva.svg?style=social&label=Follow)](https://github.com/jahirfiquitiva)
 [![Follow on Twitter](https://img.shields.io/twitter/follow/jahirfiquitiva.svg?style=social)](https://twitter.com/jahirfiquitiva)
 
-If you found this app/library helpful and want to thank me, you can:
-
-<a target="_blank" href="https://jahir.dev/donate/">
-<img src="https://jahir.dev/share/support_my_work.svg?maxAge=432000" width="200"/>
-</a>
-
-**Thanks in advance!** :pray:
 
 ---
 
