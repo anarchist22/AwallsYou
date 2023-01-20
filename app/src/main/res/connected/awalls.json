@@ -6,7 +6,8 @@
 		"thumbnail": "https://raw.githubusercontent.com/anarchist22/AwallsYou/main/app/src/main/res/wallpapers/thumbnails/sunset_yellow_thumbnail.jpg",
 		"collections": "Paper You",
 		"downloadable": true,
-		"copyright": "An Art"
+		"dimensions" : "3206x4096px",
+		"copyright": "Personal use only. Perfect complement to Acons YOU"
 	},
 	{
 		"name": "Sunset Green",
@@ -15,7 +16,8 @@
 		"thumbnail": "https://raw.githubusercontent.com/anarchist22/AwallsYou/main/app/src/main/res/wallpapers/thumbnails/sunset_green_thumbnail.jpg",
 		"collections": "Paper You",
 		"downloadable": true,
-		"copyright": "An Art"
+		"dimensions" : "3206x4096px",
+		"copyright": "Personal use only. Perfect complement to Acons YOU"
 	},
 	{
 		"name": "Sunset",
@@ -24,6 +26,27 @@
 		"thumbnail": "https://raw.githubusercontent.com/anarchist22/AwallsYou/main/app/src/main/res/wallpapers/thumbnails/sunset_thumbnail.jpg",
 		"collections": "Paper You",
 		"downloadable": true,
-		"copyright": "An Art"
+		"dimensions" : "3206x4096px",
+		"copyright": "Personal use only. Perfect complement to Acons YOU"
+	},
+	{
+		"name": "Sunset Lime",
+		"author": "An",
+		"url": "https://raw.githubusercontent.com/anarchist22/AwallsYou/main/app/src/main/res/wallpapers/sunset_lime_wall.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/anarchist22/AwallsYou/main/app/src/main/res/wallpapers/thumbnails/sunset_lime_thumbnail.jpg",
+		"collections": "Paper You",
+		"downloadable": true,
+		"dimensions" : "3138x4009px",
+		"copyright": "Personal use only. Perfect complement to Acons YOU"
+	},
+	{
+		"name": "Sunset Flamingo",
+		"author": "An",
+		"url": "https://raw.githubusercontent.com/anarchist22/AwallsYou/main/app/src/main/res/wallpapers/sunset_flamingo_wall.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/anarchist22/AwallsYou/main/app/src/main/res/wallpapers/thumbnails/sunset_flamingo_thumbnail.jpg",
+		"collections": "Paper You",
+		"downloadable": true,
+		"dimensions" : "3138x4009px",
+		"copyright": "Personal use only. Perfect complement to Acons YOU"
 	}
 ]
